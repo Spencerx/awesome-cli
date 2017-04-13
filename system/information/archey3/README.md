@@ -1,4 +1,4 @@
 # archey3
 
-* Homepage: _insert homepage link here_
+* Homepage: http://bluepeppers.github.com/archey3
 
