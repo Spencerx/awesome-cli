@@ -1,4 +1,4 @@
 # gnu-netcat
 
-* Homepage: _insert homepage link here_
+* Homepage: http://netcat.sourceforge.net/
 
