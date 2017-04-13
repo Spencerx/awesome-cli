@@ -1,4 +1,4 @@
 # todo.txt
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/ginatrapani/todo.txt-cli/
 
