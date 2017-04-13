@@ -1,4 +1,4 @@
 # hftirc
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/xorg62/HFTIrc
 
