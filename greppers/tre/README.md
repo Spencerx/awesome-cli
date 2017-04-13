@@ -1,4 +1,4 @@
 # tre
 
-* Homepage: _insert homepage link here_
+* Homepage: http://laurikari.net/tre
 
