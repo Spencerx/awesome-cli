@@ -1,4 +1,4 @@
 # speedtest-cli
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/sivel/speedtest-cli/
 
