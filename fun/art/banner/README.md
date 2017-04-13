@@ -1,4 +1,4 @@
 # banner
 
-* Homepage: _insert homepage link here_
+* Homepage: http://shh.thathost.com/pub-unix
 
