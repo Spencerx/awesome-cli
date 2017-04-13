@@ -1,4 +1,4 @@
 # dd_rescue
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 
