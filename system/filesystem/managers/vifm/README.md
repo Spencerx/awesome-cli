@@ -1,4 +1,7 @@
 # vifm
 
-* Homepage: _insert homepage link here_
+* Homepage: http://vifm.info/
 
+Vifm is a ncurses based file manager with vi like keybindings.  If you use
+ vi, vifm gives you complete keyboard control over your files without
+ having to learn a new set of commands.
