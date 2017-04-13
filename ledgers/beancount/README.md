@@ -1,4 +1,4 @@
 # beancount
 
-* Homepage: _insert homepage link here_
+* Homepage: http://furius.ca/beancount/
 
