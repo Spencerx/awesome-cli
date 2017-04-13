@@ -1,4 +1,7 @@
 # inxi
 
-* Homepage: _insert homepage link here_
+* Homepage: http://inxi.org
 
+Inxi is a system information script that can display various things about
+ your hardware and software to users in an IRC chatroom or support forum.
+ It runs with the /exec command in most IRC clients.
