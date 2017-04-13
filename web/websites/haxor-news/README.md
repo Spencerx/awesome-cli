@@ -1,4 +1,4 @@
 # haxor-news
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/donnemartin/haxor-news/
 
