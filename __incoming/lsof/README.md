@@ -1,4 +1,8 @@
 # lsof
 
-* Homepage: _insert homepage link here_
+* Homepage: http://people.freebsd.org/~abe/
 
+Lsof is a Unix-specific diagnostic tool.  Its name stands
+ for LiSt Open Files, and it does just that.  It lists
+ information about any files that are open, by processes
+ currently running on the system.
