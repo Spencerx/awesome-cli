@@ -1,4 +1,4 @@
 # livestreamer-curses
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/gapato/livestreamer-curses
 
