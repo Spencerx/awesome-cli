@@ -1,4 +1,4 @@
 # profanity
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.profanity.im/
 
