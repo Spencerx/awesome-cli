@@ -1,4 +1,4 @@
 # inetutils
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.gnu.org/software/inetutils/
 
