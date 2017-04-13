@@ -1,4 +1,4 @@
 # hping
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.hping.org/
 
