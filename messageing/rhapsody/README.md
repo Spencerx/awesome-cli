@@ -1,4 +1,4 @@
 # rhapsody
 
-* Homepage: _insert homepage link here_
+* Homepage: http://rhapsody.sourceforge.net/
 
