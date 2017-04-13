@@ -1,4 +1,4 @@
 # hpodder
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/jgoerzen/hpodder/wiki
 
