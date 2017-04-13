@@ -1,4 +1,4 @@
 # xz
 
-* Homepage: _insert homepage link here_
+* Homepage: http://tukaani.org/xz/
 
