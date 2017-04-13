@@ -1,4 +1,4 @@
 # cssh
 
-* Homepage: _insert homepage link here_
+* Homepage: http://cssh.sourceforge.net/
 
