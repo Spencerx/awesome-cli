@@ -1,4 +1,4 @@
 # xaric
 
-* Homepage: _insert homepage link here_
+* Homepage: http://xaric.org/
 
