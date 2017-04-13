@@ -1,4 +1,4 @@
 # lumail
 
-* Homepage: _insert homepage link here_
+* Homepage: https://lumail.org
 
