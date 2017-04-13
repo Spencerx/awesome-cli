@@ -1,4 +1,4 @@
 # git-manager
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/etola/git-manager/
 
