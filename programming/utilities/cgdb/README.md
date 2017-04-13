@@ -1,4 +1,18 @@
 # cgdb
 
-* Homepage: _insert homepage link here_
+* Homepage: http://cgdb.github.io/
 
+CGDB is a curses  frontend to the GNU Debugger (GDB). The goal of CGDB is
+ to be lightweight and responsive; not encumbered with unnecessary
+ features.
+
+ The interface is designed to deliver the familiar GDB text interface, with
+ a split screen showing the source as it executes. The UI is modeled on the
+ classic Unix text editor, vi. Those familiar with vi should feel right at
+ home using CGDB.
+
+ Some features offered by CGDB are:
+   * Syntax-highlighted source window
+   * Visual breakpoint setting
+   * Keyboard shortcuts for common functions
+   * Searching source window (using regexp)
