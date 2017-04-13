@@ -1,4 +1,4 @@
 # brogue
 
-* Homepage: _insert homepage link here_
+* Homepage: http://sites.google.com/site/broguegame/
 
