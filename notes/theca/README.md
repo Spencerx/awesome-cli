@@ -1,4 +1,4 @@
 # theca
 
-* Homepage: _insert homepage link here_
+* Homepage: https://bracewel.net/introducing-theca/
 
