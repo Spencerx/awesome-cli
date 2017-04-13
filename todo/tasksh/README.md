@@ -1,4 +1,4 @@
 # tasksh
 
-* Homepage: _insert homepage link here_
+* Homepage: http://tasktools.org/projects/tasksh.html
 
