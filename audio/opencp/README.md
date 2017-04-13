@@ -1,4 +1,4 @@
 # opencp
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.cubic.org/player/
 
