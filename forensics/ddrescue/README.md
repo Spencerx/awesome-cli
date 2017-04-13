@@ -1,4 +1,4 @@
 # ddrescue
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.gnu.org/software/ddrescue/ddrescue.html
 
