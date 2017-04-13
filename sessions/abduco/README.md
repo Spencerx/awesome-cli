@@ -1,4 +1,4 @@
 # abduco
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.brain-dump.org/projects/abduco/
 
