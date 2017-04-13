@@ -1,4 +1,4 @@
 # pwman
 
-* Homepage: _insert homepage link here_
+* Homepage: http://pwman.sourceforge.net/
 
