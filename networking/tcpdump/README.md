@@ -1,4 +1,13 @@
 # tcpdump
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.tcpdump.org
 
+This program allows you to dump the traffic on a network. tcpdump
+ is able to examine IPv4, ICMPv4, IPv6, ICMPv6, UDP, TCP, SNMP, AFS
+ BGP, RIP, PIM, DVMRP, IGMP, SMB, OSPF, NFS and many other packet
+ types.
+
+ It can be used to print out the headers of packets on a network
+ interface, filter packets that match a certain expression. You can
+ use this tool to track down network problems, to detect attacks
+ or to monitor network activities.
