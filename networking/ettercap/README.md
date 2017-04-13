@@ -1,4 +1,4 @@
 # ettercap
 
-* Homepage: _insert homepage link here_
+* Homepage: https://ettercap.github.io/ettercap/
 
