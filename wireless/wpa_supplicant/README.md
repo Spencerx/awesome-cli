@@ -1,4 +1,4 @@
 # wpa_supplicant
 
-* Homepage: _insert homepage link here_
+* Homepage: http://hostap.epitest.fi/wpa_supplicant
 
