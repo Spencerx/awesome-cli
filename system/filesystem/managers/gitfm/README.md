@@ -1,4 +1,4 @@
 # gitfm
 
-* Homepage: _insert homepage link here_
+* Homepage: http://gnu.org/s/gnuit/
 
