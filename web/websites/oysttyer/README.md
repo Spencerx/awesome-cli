@@ -1,4 +1,4 @@
 # oysttyer
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/oysttyer/oysttyer/
 
