@@ -1,4 +1,4 @@
 # mu
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.djcbsoftware.nl/code/mu/
 
