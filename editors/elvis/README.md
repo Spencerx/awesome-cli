@@ -1,4 +1,4 @@
 # elvis
 
-* Homepage: _insert homepage link here_
+* Homepage: http://elvis.the-little-red-haired-girl.org/
 
