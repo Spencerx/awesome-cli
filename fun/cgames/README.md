@@ -1,4 +1,4 @@
 # cgames
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.muppetlabs.com/~breadbox/software/cgames.html
 
