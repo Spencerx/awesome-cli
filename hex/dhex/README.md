@@ -1,4 +1,9 @@
 # dhex
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.dettus.net/dhex/
 
+dhex is more than just another hex editor: It includes a diff mode, which
+ can be used to easily and conveniently compare two binary files. Since it
+ is based on ncurses and is themeable, it can run on any number of systems
+ and scenarios. With its utilization of search logs, it is possible to
+ track changes in different iterations of files easily.
