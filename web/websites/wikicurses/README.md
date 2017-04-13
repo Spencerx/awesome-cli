@@ -1,4 +1,4 @@
 # wikicurses
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/ids1024/wikicurses
 
