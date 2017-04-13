@@ -1,4 +1,4 @@
 # svn
 
-* Homepage: _insert homepage link here_
+* Homepage: https://subversion.apache.org/
 
