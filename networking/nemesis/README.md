@@ -1,4 +1,4 @@
 # nemesis
 
-* Homepage: _insert homepage link here_
+* Homepage: http://nemesis.sourceforge.net/
 
