@@ -1,4 +1,4 @@
 # beye
 
-* Homepage: _insert homepage link here_
+* Homepage: http://beye.sourceforge.net/
 
