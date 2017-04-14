@@ -1,4 +1,18 @@
 # sysstat
 
-* Homepage: _insert homepage link here_
+* Homepage: http://pagesperso-orange.fr/sebastien.godard/
 
+The sysstat package contains the following system performance tools:
+  - sar: collects and reports system activity information;
+  - iostat: reports CPU utilization and disk I/O statistics;
+  - mpstat: reports global and per-processor statistics;
+  - pidstat: reports statistics for Linux tasks (processes);
+  - sadf: displays data collected by sar in various formats;
+  - nfsiostat: reports I/O statistics for network filesystems;
+  - cifsiostat: reports I/O statistics for CIFS filesystems.
+
+ The statistics reported by sar deal with I/O transfer rates,
+ paging activity, process-related activities, interrupts,
+ network activity, memory and swap space utilization, CPU
+ utilization, kernel activities and TTY statistics, among
+ others. Both UP and SMP machines are fully supported.

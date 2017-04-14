@@ -1,4 +1,4 @@
 # scapy
 
-* Homepage: _insert homepage link here_
+* Homepage: scapy http://www.secdev.org/projects/scapy/
 

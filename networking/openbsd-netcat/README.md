@@ -1,4 +1,4 @@
 # openbsd-netcat
 
-* Homepage: _insert homepage link here_
+* Homepage: http://packages.debian.org/sid/netcat-openbsd
 

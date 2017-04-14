@@ -1,4 +1,4 @@
 # srm
 
-* Homepage: _insert homepage link here_
+* Homepage: http://srm.sourceforge.net/
 

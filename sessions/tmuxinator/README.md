@@ -1,4 +1,4 @@
 # tmuxinator
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/aziz/tmuxinator/
 

@@ -1,4 +1,4 @@
 # deheader
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.catb.org/esr/deheader/
 

@@ -1,4 +1,4 @@
 # exa
 
-* Homepage: _insert homepage link here_
+* Homepage: https://bsago.me/exa/
 

@@ -1,4 +1,4 @@
 # neomutt
 
-* Homepage: _insert homepage link here_
+* Homepage: http://neomutt.org/
 

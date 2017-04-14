@@ -1,4 +1,13 @@
 # stress
 
-* Homepage: _insert homepage link here_
+* Homepage: http://people.seas.harvard.edu/~apw/stress/
 
+'stress' is a tool that imposes a configurable amount of CPU, memory, I/O,
+ or disk stress on a POSIX-compliant operating system and reports any
+ errors it detects.
+
+ 'stress' is not a benchmark.  It is a tool used by system administrators
+ to evaluate how well their systems will scale, by kernel programmers to
+ evaluate perceived performance characteristics, and by systems programmers
+ to expose the classes of bugs which only or more frequently manifest
+ themselves when the system is under heavy load.

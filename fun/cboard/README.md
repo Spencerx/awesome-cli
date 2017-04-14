@@ -1,4 +1,4 @@
 # cboard
 
-* Homepage: _insert homepage link here_
+* Homepage: http://sourceforge.net/projects/c-board/
 

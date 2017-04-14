@@ -1,4 +1,4 @@
 # slsc
 
-* Homepage: _insert homepage link here_
+* Homepage: ftp://space.mit.edu/pub/davis/slsc/
 

@@ -1,4 +1,4 @@
 # moe
 
-* Homepage: _insert homepage link here_
+* Homepage: http://gnu.org/software/moe/
 

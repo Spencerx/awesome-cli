@@ -1,4 +1,12 @@
 # strace
 
-* Homepage: _insert homepage link here_
+* Homepage: http://sourceforge.net/projects/strace/
 
+strace is a system call tracer, i.e. a debugging tool which prints out
+ a trace of all the system calls made by a another process/program.
+ The program to be traced need not be recompiled for this, so you can
+ use it on binaries for which you don't have source.
+
+ System calls and signals are events that happen at the user/kernel
+ interface. A close examination of this boundary is very useful for bug
+ isolation, sanity checking and attempting to capture race conditions.

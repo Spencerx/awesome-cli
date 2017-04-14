@@ -1,4 +1,4 @@
 # serman2
 
-* Homepage: _insert homepage link here_
+* Homepage: http://xyne.archlinux.ca/projects/serman/
 

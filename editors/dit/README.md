@@ -1,4 +1,4 @@
 # dit
 
-* Homepage: _insert homepage link here_
+* Homepage: http://hisham.hm/dit
 

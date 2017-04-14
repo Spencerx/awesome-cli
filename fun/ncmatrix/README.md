@@ -1,4 +1,4 @@
 # ncmatrix
 
-* Homepage: _insert homepage link here_
+* Homepage: http://webpages.charter.net/tux/ncmatrix/index.htm
 

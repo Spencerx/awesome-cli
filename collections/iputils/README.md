@@ -1,4 +1,4 @@
 # iputils
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.skbuff.net/iputils/
 

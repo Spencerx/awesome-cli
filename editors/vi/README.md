@@ -1,4 +1,4 @@
 # vi
 
-* Homepage: _insert homepage link here_
+* Homepage: http://ex-vi.sourceforge.net/
 

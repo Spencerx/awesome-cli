@@ -1,4 +1,4 @@
 # rainbowstream
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.rainbowstream.org/
 

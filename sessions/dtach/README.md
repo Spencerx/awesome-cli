@@ -1,4 +1,15 @@
 # dtach
 
-* Homepage: _insert homepage link here_
+* Homepage: http://dtach.sourceforge.net/
 
+dtach is a tiny program that emulates the detach feature of screen,
+ allowing you to run a program in an environment that is protected from the
+ controlling terminal and attach to it later. dtach does not keep track of
+ the contents of the screen, and thus works best with programs that know
+ how to redraw themselves.
+
+ dtach does not, however, have the other features of screen, such as its
+ support of multiple terminals or its terminal emulation support. This
+ makes dtach extremely tiny compared to screen, making it more easily
+ audited for bugs and security holes, and also allows it to fit in
+ environments where space is limited, such as on rescue disks.

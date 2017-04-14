@@ -1,4 +1,4 @@
 # hg
 
-* Homepage: _insert homepage link here_
+* Homepage: https://mercurial.selenic.com/
 

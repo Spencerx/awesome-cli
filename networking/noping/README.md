@@ -1,4 +1,4 @@
 # noping
 
-* Homepage: _insert homepage link here_
+* Homepage: http://noping.cc/
 

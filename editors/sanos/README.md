@@ -1,4 +1,4 @@
 # sanos
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.jbox.dk/sanos/editor.html
 

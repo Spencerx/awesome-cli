@@ -1,4 +1,4 @@
 # dav
 
-* Homepage: _insert homepage link here_
+* Homepage: http://dav-text.sourceforge.net/
 

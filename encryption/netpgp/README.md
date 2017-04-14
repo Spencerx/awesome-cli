@@ -1,4 +1,4 @@
 # netpgp
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.netpgp.com/
 

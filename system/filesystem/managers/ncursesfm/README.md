@@ -1,4 +1,4 @@
 # ncursesfm
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/FedeDP/ncursesFM/
 

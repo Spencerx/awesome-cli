@@ -1,4 +1,4 @@
 # ddate
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/bo0ts/ddate/
 

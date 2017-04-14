@@ -1,4 +1,4 @@
 # memo
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.getmemo.org/index.html
 

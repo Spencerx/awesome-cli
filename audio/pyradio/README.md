@@ -1,4 +1,4 @@
 # pyradio
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.coderholic.com/pyradio/
 

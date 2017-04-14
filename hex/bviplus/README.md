@@ -1,4 +1,4 @@
 # bviplus
 
-* Homepage: _insert homepage link here_
+* Homepage: http://bviplus.sourceforge.net/
 

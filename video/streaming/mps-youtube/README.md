@@ -1,4 +1,4 @@
 # mps-youtube
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/mps-youtube/mps-youtube/
 

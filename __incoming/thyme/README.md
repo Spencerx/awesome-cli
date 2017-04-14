@@ -1,4 +1,4 @@
 # thyme
 
-* Homepage: _insert homepage link here_
+* Homepage: http://hughbien.com/thyme/
 

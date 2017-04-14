@@ -1,4 +1,4 @@
 # sysadmin-utils
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/skx/sysadmin-util
 

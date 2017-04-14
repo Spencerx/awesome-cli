@@ -1,4 +1,4 @@
 # netstat
 
-* Homepage: _insert homepage link here_
+* Homepage: http://net-tools.sourceforge.net/
 

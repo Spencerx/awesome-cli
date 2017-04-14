@@ -1,4 +1,8 @@
 # ircii
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.eterna.com.au/ircii/
 
+The ircII program is a full screen, termcap based interface to Internet
+ Relay Chat. It gives full access to all of the normal IRC functions, plus
+ a variety of additional options. This Version is able to display mIRC
+ colors. It supports "/encrypt -cast"

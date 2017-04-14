@@ -1,4 +1,4 @@
 # go-hn
 
-* Homepage: _insert homepage link here_
+* Homepage: https://gitlab.com/shank/go-hn/
 

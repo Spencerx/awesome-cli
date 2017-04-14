@@ -1,4 +1,4 @@
 # gsh
 
-* Homepage: _insert homepage link here_
+* Homepage: http://outflux.net/unix/software/gsh/
 

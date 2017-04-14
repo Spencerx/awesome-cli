@@ -1,4 +1,4 @@
 # pktanon
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.tm.uka.de/software/pktanon/
 

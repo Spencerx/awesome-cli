@@ -1,4 +1,4 @@
 # nixops
 
-* Homepage: _insert homepage link here_
+* Homepage: https://nixos.org/nixops
 

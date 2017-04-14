@@ -1,4 +1,4 @@
 # dupd
 
-* Homepage: _insert homepage link here_
+* Homepage: http://www.virkki.com/dupd/
 

@@ -1,4 +1,4 @@
 # pt
 
-* Homepage: _insert homepage link here_
+* Homepage: https://github.com/monochromecane/the_platinum_searcher/
 

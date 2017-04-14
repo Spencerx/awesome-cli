@@ -1,4 +1,4 @@
 # noice
 
-* Homepage: _insert homepage link here_
+* Homepage: http://git.2f30.org/noice
 
